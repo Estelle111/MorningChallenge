@@ -1,0 +1,22 @@
+{
+  "name": "morningchallenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Estelle111/MorningChallenge.git"
+  },
+  "author": "Estelle111",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Estelle111/MorningChallenge/issues"
+  },
+  "homepage": "https://github.com/Estelle111/MorningChallenge#readme",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
